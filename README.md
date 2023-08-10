@@ -11,5 +11,3 @@
 - pocketsphinx (For using CMUSphinx)
 - ibm-watson (For using IBM Speech To Text Service)
 - wit (For using Wit.Ai Service)
-
-For detailed tutorial on how to setup Speech to Text or post your questions visit [Speech Recognition – Speech to Text in Python using Google API, Wit.AI, IBM, CMUSphinx](https://www.pragnakalp.com/speech-recognition-speech-to-text-python-using-google-api-wit-ai-ibm-cmusphinx/) blog.
